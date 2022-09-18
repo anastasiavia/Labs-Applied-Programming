@@ -1,1 +1,1 @@
-# Labs-Applied-Programming
+# Applied-Programming-Labs
