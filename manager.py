@@ -17,3 +17,4 @@ class DBManager:
         session_factory = sessionmaker(bind=self.engine)
         session = scoped_session(session_factory)
         return session
+

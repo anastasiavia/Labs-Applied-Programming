@@ -88,6 +88,7 @@ if __name__ == '__main__':
         user_id=3,
     )
 
+
     order2 = Order(
         idorder=4,
         quantity=6,

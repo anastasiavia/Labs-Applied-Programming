@@ -4,7 +4,6 @@ from sqlalchemy.orm import declarative_base, relationship
 
 Base = declarative_base()
 
-
 class Address(Base):
   __tablename__ = "address"
   idaddress = Column(Integer, primary_key=True)

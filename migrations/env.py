@@ -11,6 +11,7 @@ import mysql.connector
 from schemas import Base
 target_metadata = Base.metadata
 
+
 db = mysql.connector.connect(
     host=DB_HOST,
     user=DB_USERNAME,
